@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /error
+Sitemap: https://aitken-mckenzie.co.uk/sitemap.xml
