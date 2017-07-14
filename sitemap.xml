@@ -22,4 +22,12 @@
             <image:caption>Newly-fitted bathroom</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://aitken-mckenzie.co.uk/joinery</loc>
+        <priority>0.75</priority>
+    </url>
+    <url>
+        <loc>https://aitken-mckenzie.co.uk/joinery/kitchen.html</loc>
+        <priority>0.5</priority>
+    </url>
 </urlset>
