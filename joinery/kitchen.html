@@ -29,12 +29,20 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
     <link rel="stylesheet" href="../assets/css/custom.css">
-    <link rel="image_src" href="images/banner.jpg">
+    <link rel="stylesheet" href="../assets/css/lightbox.css">
+    <link rel="image_src" href="../images/banner.jpg">
     <style>
         #main > header {
             background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner-joinery-kitchen.jpg");
             background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner-joinery-kitchen.jpg");
             background-image: -ms-linear-gradient(top, rgba(1,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner-joinery-kitchen.jpg");
+        }
+
+        @media screen and (max-width: 480px) {
+            .row > * {
+                float: none;
+                width: 100%;
+            }
         }
     </style>
 </head>
@@ -82,7 +90,27 @@
                     Our service includes complete project management, our team will take care of every detail of the project.
                     Everything from installing the kitchen furniture to organising our plumbers and electricians.
                     Our team will complete your installation on time to the very highest of standards.
-                  </p>
+                </p>
+
+                <div class="box alt">
+                    <div class="row uniform 50%">
+                        <div class="4u"><span class="image fit">
+                            <a href="#kitchen-new">
+                                <img src="../images/kitchen-new.jpg" alt="Kitchen conversion">
+                            </a>
+                        </span></div>
+                        <div class="4u"><span class="image fit">
+                            <a href="#kitchen-blue">
+                                <img src="../images/kitchen-blue.jpg" alt="Kitchen conversion">
+                            </a>
+                        </span></div>
+                        <div class="4u"><span class="image fit">
+                            <a href="#kitchen-modern">
+                                <img src="../images/kitchen-modern.jpg" alt="Kitchen conversion">
+                            </a>
+                        </span></div>
+                    </div>
+                </div>
             </div>
         </section>
     </article>
@@ -125,6 +153,16 @@
 
 </div>
 
+<div id="kitchen-new" class="lightbox">
+    <a href="#_"> <img src="../images/kitchen-new.jpg"></a>
+</div>
+<div id="kitchen-blue" class="lightbox">
+    <a href="#_"> <img src="../images/kitchen-blue.jpg"></a>
+</div>
+<div id="kitchen-modern" class="lightbox">
+    <a href="#_"> <img src="../images/kitchen-modern.jpg"></a>
+</div>
+
 <!-- Scripts -->
 <script src="../assets/js/jquery.min.js"></script>
 <script src="../assets/js/jquery.scrollex.min.js"></script>
@@ -144,6 +182,5 @@
     ga('send', 'pageview');
 
 </script>
-
 </body>
 </html>

@@ -1,0 +1,21 @@
+.lightbox {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: -100%;
+    background-color: rgba(0,0,0,0.8);
+    transition: left 1s;
+    -moz-transition: left 1s;
+}
+
+.lightbox:target {
+    left: 0;
+}
+
+.lightbox img {
+    max-height: 90%;
+    max-width: 90%;
+}
