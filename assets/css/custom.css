@@ -2,3 +2,9 @@
     box-shadow:inset 0 0 0 99999px rgba(0,0,0,0.2);
 }
 
+@media screen and (max-width: 480px) {
+    .row > * {
+        float: none;
+        width: 100%;
+    }
+}
