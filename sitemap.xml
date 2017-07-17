@@ -54,4 +54,24 @@
             <image:caption>Kitchen conversion</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://aitken-mckenzie.co.uk/joinery/loft.html</loc>
+        <priority>0.5</priority>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-before.jpg</image:loc>
+            <image:caption>Before loft conversion</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-after.jpg</image:loc>
+            <image:caption>After loft conversion</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-clean.jpg</image:loc>
+            <image:caption>Loft conversion</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-clean2.jpg</image:loc>
+            <image:caption>Loft conversion</image:caption>
+        </image:image>
+    </url>
 </urlset>
