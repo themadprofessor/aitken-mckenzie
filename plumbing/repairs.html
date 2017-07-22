@@ -6,7 +6,7 @@
 -->
 <html>
 <head>
-    <title>Joinery - Aitken McKenzie</title>
+    <title>Repairs - Plumbing - Aitken McKenzie</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Local, friendly, Glasgow-based building company." />
@@ -29,20 +29,16 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
     <link rel="stylesheet" href="../assets/css/custom.css">
+    <link rel="stylesheet" href="../assets/css/lightbox.css">
     <link rel="image_src" href="../images/banner/banner.jpg">
     <style>
         #main > header {
-            background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery.jpg");
-            background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery.jpg");
-            background-image: -ms-linear-gradient(top, rgba(1,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery.jpg");
+            background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery-kitchen.jpg");
+            background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery-kitchen.jpg");
+            background-image: -ms-linear-gradient(top, rgba(1,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery-kitchen.jpg");
         }
 
-        @media screen and (max-width: 480px) {
-            .row > * {
-                float: none;
-                width: 100%;
-            }
-        }
+
     </style>
 </head>
 <body>
@@ -78,33 +74,34 @@
     <!-- Main -->
     <article id="main">
         <header>
-            <h2>Joinery</h2>
-            <p>High-quality, professional joinery services</p>
+            <h2>Plumbing repairs</h2>
+            <p>High-quality, professional, fast repairs</p>
         </header>
         <section class="wrapper style5">
             <div class="inner">
 
                 <!--<h3>Lorem ipsum dolor</h3>-->
-                <p>Aitken Mckenzie provides specialist joinery services for our customers in Glasgow and the surrounding areas. We pride ourselves on providing an outstanding professional service at a reasonable price. We have craftsmen with over 20 years experienced who can carry out a range of joinery services.
-                    From fitting a kitchen to a large extension, all our work is carried out in a professional and friendly manner.</p>
+                <p> At Aitken McKenzie we can install bespoke, custom designed fitted kitchens, or refurbish existing kitchens.
+                    Our service includes complete project management, our team will take care of every detail of the project.
+                    Everything from installing the kitchen furniture to organising our plumbers and electricians.
+                    Our team will complete your installation on time to the very highest of standards.
+                </p>
+
                 <div class="box alt">
                     <div class="row uniform 50%">
-                        <div class="4u"><span class="image fit">
-                            <a href="kitchen.html">
-                                <img src="../images/joinery/kitchen/kitchen-new.jpg" alt="Kitchen conversion">
-                                <p class="button special fit" style="margin-top: 0.5em">New Kitchen</p>
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#kitchen-rustic">
+                                <img src="../images/joinery/kitchen/kitchen-rustic.jpg" alt="Kitchen conversion" class="fade-opacity">
                             </a>
                         </span></div>
-                        <div class="4u"><span class="image fit">
-                            <a href="loft.html">
-                                <img src="../images/joinery/loft/loft-convert.jpg" alt="Loft conversion">
-                                <p class="button special fit" style="margin-top: 0.5em">Loft Conversion</p>
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#kitchen-blue">
+                                <img src="../images/joinery/kitchen/kitchen-blue.jpg" alt="Kitchen conversion" class="fade-opacity">
                             </a>
                         </span></div>
-                        <div class="4u"><span class="image fit">
-                            <a href="home.html">
-                                <img src="../images/joinery/home/home-improve.jpg" alt="Home improvement">
-                                <p class="button special fit" style="margin-top: 0.5em">Home Improvement</p>
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#kitchen-modern">
+                                <img src="../images/joinery/kitchen/kitchen-modern.jpg" alt="Kitchen conversion" class="fade-opacity">
                             </a>
                         </span></div>
                     </div>
@@ -151,6 +148,16 @@
 
 </div>
 
+<div id="kitchen-rustic" class="lightbox" onclick="window.history.back()">
+    <img src="../images/joinery/kitchen/kitchen-rustic.jpg">
+</div>
+<div id="kitchen-blue" class="lightbox" onclick="window.history.back()">
+    <img src="../images/joinery/kitchen/kitchen-blue.jpg">
+</div>
+<div id="kitchen-modern" class="lightbox" onclick="window.history.back()">
+    <img src="../images/joinery/kitchen/kitchen-modern.jpg">
+</div>
+
 <!-- Scripts -->
 <script src="../assets/js/jquery.min.js"></script>
 <script src="../assets/js/jquery.scrollex.min.js"></script>
@@ -170,6 +177,5 @@
     ga('send', 'pageview');
 
 </script>
-
 </body>
 </html>
