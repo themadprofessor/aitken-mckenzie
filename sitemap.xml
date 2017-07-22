@@ -90,4 +90,8 @@
             <image:caption>New living room</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://aitken-mckenzie.co.uk/plumbing</loc>
+        <priority>0.75</priority>
+    </url>
 </urlset>
