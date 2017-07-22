@@ -74,4 +74,20 @@
             <image:caption>Loft conversion</image:caption>
         </image:image>
     </url>
+    <url>
+        <loc>https://aitken-mckenzie.co.uk/joinery/home.html</loc>
+        <priority>0.5</priority>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/home/living-room.jpg</image:loc>
+            <image:caption>New living room</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/home/office.jpg</image:loc>
+            <image:caption>Home office</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/home/home.jpg</image:loc>
+            <image:caption>New living room</image:caption>
+        </image:image>
+    </url>
 </urlset>
