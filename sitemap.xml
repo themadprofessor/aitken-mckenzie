@@ -26,6 +26,10 @@
         <loc>https://aitken-mckenzie.co.uk/joinery</loc>
         <priority>0.75</priority>
         <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/joinery.jpg</image:loc>
+            <image:caption>Wall of joinery tools</image:caption>
+        </image:image>
+        <image:image>
             <image:loc>https://aitken-mckenzie.co.uk/images/kitchen/kitchen-new.jpg</image:loc>
             <image:caption>Kitchen conversion</image:caption>
         </image:image>
@@ -41,6 +45,10 @@
     <url>
         <loc>https://aitken-mckenzie.co.uk/joinery/kitchen.html</loc>
         <priority>0.5</priority>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/banner/joinery-kitchen.jpg</image:loc>
+            <image:caption>Two kitchens side-by-side, rustic kitchen on the left, modern with an island on the right</image:caption>
+        </image:image>
         <image:image>
             <image:loc>https://aitken-mckenzie.co.uk/images/kitchin/kitchin-modern.jpg</image:loc>
             <image:caption>Kitchen conversion</image:caption>
@@ -78,6 +86,10 @@
         <loc>https://aitken-mckenzie.co.uk/joinery/home.html</loc>
         <priority>0.5</priority>
         <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/banner/joinery-home.jpg</image:loc>
+            <image:caption>Front room with kitchen overlooking mountains</image:caption>
+        </image:image>
+        <image:image>
             <image:loc>https://aitken-mckenzie.co.uk/images/home/living-room.jpg</image:loc>
             <image:caption>New living room</image:caption>
         </image:image>
@@ -93,5 +105,21 @@
     <url>
         <loc>https://aitken-mckenzie.co.uk/plumbing</loc>
         <priority>0.75</priority>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/banner/plumbing-bathroom.jpg</image:loc>
+            <image:caption>Light modern bathroom</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/bathroom-unique.jpg</image:loc>
+            <image:caption>Unique bathroom sink</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/dripping%20tap.jpg</image:loc>
+            <image:caption>Dripping, metal tap</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://aitken-mckenzie.co.uk/images/home/bathroom-convert.jpg</image:loc>
+            <image:caption>Bathroom conversion</image:caption>
+        </image:image>
     </url>
 </urlset>
