@@ -29,6 +29,7 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
     <link rel="stylesheet" href="../assets/css/custom.css">
+    <link rel="stylesheet" href="../assets/css/lightbox.css">
     <link rel="image_src" href="../images/banner/banner.jpg">
     <style>
         #main > header {
@@ -92,17 +93,22 @@
                     From skimming to artex removal, all our work is carried out in a professional and friendly manner.
                 </p>
 
-                <!--TODO: Decide and build subpages-->
                 <div class="box alt">
                     <div class="row uniform 50%">
-                        <div class="4u"><span class="image fit">
-                            <img src="../images/plastering/man_wall.jpg" alt="Older man plastering a wall">
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#man-wall">
+                                <img src="../images/plastering/man_wall.jpg" alt="Older man plastering a wall" class="fade-opacity">
+                            </a>
                         </span></div>
-                        <div class="4u"><span class="image fit">
-                            <img src="../images/plastering/artex.jpg" alt="Blue artex plaster">
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#artex">
+                                <img src="../images/plastering/artex.jpg" alt="Blue artex plaster" class="fade-opacity">
+                            </a>
                         </span></div>
-                        <div class="4u"><span class="image fit">
-                            <img src="../images/plastering/hole.jpg" alt="White hole in red plaster">
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#hole">
+                                <img src="../images/plastering/hole.jpg" alt="White hole in red plaster" class="fade-opacity">
+                            </a>
                         </span></div>
                     </div>
                 </div>
@@ -146,6 +152,16 @@
         </ul>
     </footer>
 
+</div>
+
+<div id="man-wall" class="lightbox" onclick="window.history.back()">
+    <img src="../images/plastering/man_wall.jpg">
+</div>
+<div id="artex" class="lightbox" onclick="window.history.back()">
+    <img src="../images/plastering/artex.jpg">
+</div>
+<div id="hole" class="lightbox" onclick="window.history.back()">
+    <img src="../images/plastering/hole.jpg">
 </div>
 
 <!-- Scripts -->
