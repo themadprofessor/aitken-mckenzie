@@ -6,7 +6,7 @@
 -->
 <html>
 <head>
-    <title>Plumbing - Aitken McKenzie</title>
+    <title>Repairs - Plastering - Aitken McKenzie</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Local, friendly, Glasgow-based building company." />
@@ -29,20 +29,16 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
     <link rel="stylesheet" href="../assets/css/custom.css">
+    <link rel="stylesheet" href="../assets/css/lightbox.css">
     <link rel="image_src" href="../images/banner/banner.jpg">
     <style>
         #main > header {
-            background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/plumbing.jpg");
-            background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/plumbing.jpg");
-            background-image: -ms-linear-gradient(top, rgba(1,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/plumbing.jpg");
+            background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery-kitchen.jpg");
+            background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery-kitchen.jpg");
+            background-image: -ms-linear-gradient(top, rgba(1,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner/joinery-kitchen.jpg");
         }
 
-        @media screen and (max-width: 480px) {
-            .row > * {
-                float: none;
-                width: 100%;
-            }
-        }
+
     </style>
 </head>
 <body>
@@ -78,37 +74,34 @@
     <!-- Main -->
     <article id="main">
         <header>
-            <h2>Plumbing</h2>
-            <p>High-quality, professional plumbing services</p>
+            <h2>Plaster Repairs</h2>
+            <p>High-quality, professional plaster repairs</p>
         </header>
         <section class="wrapper style5">
             <div class="inner">
 
                 <!--<h3>Lorem ipsum dolor</h3>-->
                 <p>
-                    Aitken Mckenzie provides specialist plumbing services for our customers in Glasgow and the surrounding areas.
-                    We pride ourselves on providing an outstanding professional service at a reasonable price.
-                    We have craftsmen with over 20 years experienced who can carry out a range of plumbing services.
-                    From fitting a bathroom to a fixing a leaking tap, all our work is carried out in a professional and friendly manner.
+                    Aitken McKenzie's highly-skilled plasters provide a professional and fast repair service.
+                    From crumbling to missing sections, our team will ensure your repair will be carried out quickly and to highest standard.
                 </p>
+
+                <!--TODO: Add more images-->
                 <div class="box alt">
                     <div class="row uniform 50%">
-                        <div class="4u"><span class="image fit">
-                            <a href="bathroom.html">
-                                <img src="../images/plumbing/bathroom-new.jpg" alt="New Bathroom">
-                                <p class="button special fit" style="margin-top: 0.5em">New Bathroom</p>
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#tap-install">
+                                <img src="../images/plumbing/repair/tap-install.jpg" alt="Kitchen tap installation" class="fade-opacity">
                             </a>
                         </span></div>
-                        <div class="4u"><span class="image fit">
-                            <a href="unique.html">
-                                <img src="../images/plumbing/unique/bathroom-unique.jpg" alt="Unique">
-                                <p class="button special fit" style="margin-top: 0.5em">Unique</p>
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#kitchen-blue">
+                                <img src="../images/kitchen/kitchen-blue.jpg" alt="Kitchen conversion" class="fade-opacity">
                             </a>
                         </span></div>
-                        <div class="4u"><span class="image fit">
-                            <a href="repairs.html">
-                                <img src="../images/plumbing/dripping%20tap.jpg" alt="Repairs">
-                                <p class="button special fit" style="margin-top: 0.5em">Repairs</p>
+                        <div class="4u"><span class="image fit fade-opacity-back">
+                            <a href="#kitchen-modern">
+                                <img src="../images/kitchen/kitchen-modern.jpg" alt="Kitchen conversion" class="fade-opacity">
                             </a>
                         </span></div>
                     </div>
@@ -155,6 +148,16 @@
 
 </div>
 
+<div id="tap-install" class="lightbox" onclick="window.history.back()">
+    <img src="../images/plumbing/repair/tap-install.jpg">
+</div>
+<div id="kitchen-blue" class="lightbox" onclick="window.history.back()">
+    <img src="../images/kitchen/kitchen-blue.jpg">
+</div>
+<div id="kitchen-modern" class="lightbox" onclick="window.history.back()">
+    <img src="../images/kitchen/kitchen-modern.jpg">
+</div>
+
 <!-- Scripts -->
 <script src="../assets/js/jquery.min.js"></script>
 <script src="../assets/js/jquery.scrollex.min.js"></script>
@@ -174,6 +177,5 @@
     ga('send', 'pageview');
 
 </script>
-
 </body>
 </html>
