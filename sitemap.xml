@@ -1,125 +1,211 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-    <url>
-        <loc>https://aitken-mckenzie.co.uk/index.html</loc>
-        <priority>1.0</priority>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/banner.jpg</image:loc>
-            <image:caption>Builder from behind</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/home-convert.jpg</image:loc>
-            <image:caption>Converted barn</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/loft-convert.jpg</image:loc>
-            <image:caption>Furnished loft space</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/bathroom-convert.jpg</image:loc>
-            <image:caption>Newly-fitted bathroom</image:caption>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://aitken-mckenzie.co.uk/joinery</loc>
-        <priority>0.75</priority>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/joinery.jpg</image:loc>
-            <image:caption>Wall of joinery tools</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/kitchen/kitchen-new.jpg</image:loc>
-            <image:caption>Kitchen conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-convert.jpg</image:loc>
-            <image:caption>Loft conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/home-improve.jpg</image:loc>
-            <image:caption>Home improvement</image:caption>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://aitken-mckenzie.co.uk/joinery/kitchen.html</loc>
-        <priority>0.5</priority>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/banner/joinery-kitchen.jpg</image:loc>
-            <image:caption>Two kitchens side-by-side, rustic kitchen on the left, modern with an island on the right</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/kitchin/kitchin-modern.jpg</image:loc>
-            <image:caption>Kitchen conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/kitchin/kitchin-rustic.jpg</image:loc>
-            <image:caption>Kitchen conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/kitchin/kitchin-blue.jpg</image:loc>
-            <image:caption>Kitchen conversion</image:caption>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://aitken-mckenzie.co.uk/joinery/loft.html</loc>
-        <priority>0.5</priority>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-before.jpg</image:loc>
-            <image:caption>Before loft conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-after.jpg</image:loc>
-            <image:caption>After loft conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-clean.jpg</image:loc>
-            <image:caption>Loft conversion</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/loft/loft-clean2.jpg</image:loc>
-            <image:caption>Loft conversion</image:caption>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://aitken-mckenzie.co.uk/joinery/home.html</loc>
-        <priority>0.5</priority>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/banner/joinery-home.jpg</image:loc>
-            <image:caption>Front room with kitchen overlooking mountains</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/home/living-room.jpg</image:loc>
-            <image:caption>New living room</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/home/office.jpg</image:loc>
-            <image:caption>Home office</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/home/home.jpg</image:loc>
-            <image:caption>New living room</image:caption>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://aitken-mckenzie.co.uk/plumbing</loc>
-        <priority>0.75</priority>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/banner/plumbing-bathroom.jpg</image:loc>
-            <image:caption>Light modern bathroom</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/bathroom-unique.jpg</image:loc>
-            <image:caption>Unique bathroom sink</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/dripping%20tap.jpg</image:loc>
-            <image:caption>Dripping, metal tap</image:caption>
-        </image:image>
-        <image:image>
-            <image:loc>https://aitken-mckenzie.co.uk/images/home/bathroom-convert.jpg</image:loc>
-            <image:caption>Bathroom conversion</image:caption>
-        </image:image>
-    </url>
+<?xml version="1.0" encoding="utf-8"?><!--Generated by Screaming Frog SEO Spider 8.1-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/home-convert.jpg</image:loc>
+        <image:title>Converted barn</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-convert.jpg</image:loc>
+        <image:title>Furnished loft space</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/bathroom-convert.jpg</image:loc>
+        <image:title>Newly-fitted bathroom</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/sitemap.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/index.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/home-convert.jpg</image:loc>
+        <image:title>Converted barn</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-convert.jpg</image:loc>
+        <image:title>Furnished loft space</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/bathroom-convert.jpg</image:loc>
+        <image:title>Newly-fitted bathroom</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/joinery/kitchen.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/kitchen/kitchen-rustic.jpg</image:loc>
+        <image:title>Rustic kitchen conversion with a second level</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/kitchen/kitchen-blue.jpg</image:loc>
+        <image:title>Kitchen conversion with central island</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/kitchen/kitchen-modern.jpg</image:loc>
+        <image:title>Modern kitchen conversion</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/plumbing/repairs.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/repair/tap-install.jpg</image:loc>
+        <image:title>Kitchen tap installation</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/repair/tools.jpg</image:loc>
+        <image:title>Wrenches tightening a pipe</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/repair/pipe.jpg</image:loc>
+        <image:title>Pipe repair with poly-cement</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/joinery/loft.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-before.jpg</image:loc>
+        <image:title>Before loft conversion</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-after.jpg</image:loc>
+        <image:title>After loft conversion</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-clean.jpg</image:loc>
+        <image:title>Loft conversion into bedroom</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-clean2.jpg</image:loc>
+        <image:title>Loft conversion into bedroom</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/plumbing/unique.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/unique/unique-bathroom.jpg</image:loc>
+        <image:title>Unique bathroom with a woodland theme</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/unique/unique-outdoor.jpg</image:loc>
+        <image:title>Unique bathroom with a cabin theme</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/unique/bathroom-unique.jpg</image:loc>
+        <image:title>Unique bathroom with a woodland theme</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/plumbing/bathroom.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/bathroom/bathroom-convert.jpg</image:loc>
+        <image:title>Bathroom conversion with bath and shower</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/bathroom/bathroom-clean.jpg</image:loc>
+        <image:title>Bathroom conversion with tiled bath</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/bathroom/shower-room.jpg</image:loc>
+        <image:title>Shower room conversion</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/joinery/home.html</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/living-room.jpg</image:loc>
+        <image:title>Cozy living room conversion</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/office.jpg</image:loc>
+        <image:title>Home office</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/home.jpg</image:loc>
+        <image:title>Light living room conversion</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/plastering/</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plastering/man_wall.jpg</image:loc>
+        <image:title>Older man plastering a wall</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plastering/artex.jpg</image:loc>
+        <image:title>Blue artex plaster</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plastering/hole.jpg</image:loc>
+        <image:title>White hole in red plaster</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/joinery/</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/kitchen/kitchen-new.jpg</image:loc>
+        <image:title>Kitchen conversion</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/loft/loft-convert.jpg</image:loc>
+        <image:title>Loft conversion</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/joinery/home/home-improve.jpg</image:loc>
+        <image:title>Home improvement</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://aitken-mckenzie.co.uk/plumbing/</loc>
+    <lastmod>2017-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/bathroom-new.jpg</image:loc>
+        <image:title>New Bathroom</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/unique/bathroom-unique.jpg</image:loc>
+        <image:title>Unique</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://aitken-mckenzie.co.uk/images/plumbing/dripping%20tap.jpg</image:loc>
+        <image:title>Repairs</image:title>
+      </image:image>
+  </url>
 </urlset>
