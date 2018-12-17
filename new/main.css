@@ -1,0 +1,29 @@
+.w3-row-padding > p {
+    padding: 0 8px;
+}
+
+.header {
+    background: url('/images/banner/joinery.jpg') no-repeat center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 16em;
+    z-index: -1;
+}
+
+.services-table td {
+    width: 50%;
+}
+
+.sidebar-menu a {
+    background: linear-gradient(#2196f3, #a6d4fa);
+    margin: 0.5em;
+    width: 100%;
+    text-align: center;
+}
+
+.sidebar-menu {
+    align-content: center;
+    margin: auto;
+    font-size:larger;
+}
